@@ -16,21 +16,9 @@ Badge [source](https://shields.io/)
 
   - [Business problem](#business-problem)
   - [Data source](#data-source)
-  - [Methods](#methods)
-  - [Tech Stack](#tech-stack)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
-  - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
-  - [Run Locally](#run-locally)
-  - [Explore the notebook](#explore-the-notebook)
-  - [Deployment on streamlit](#deployment-on-streamlit)
-  - [App deployed on Streamlit](#app-deployed-on-streamlit)
-  - [Repository structure](#repository-structure)
-  - [Contribution](#contribution)
-  - [Blog post](#blog-post)
-  - [Project featuring](#project-featuring)
-  - [License](#license)
-
+  - [Explore the visualizations](#explore-the-visualizations)
+  - [Interactive dashboard](#interactive-dashboard)
 
 
 
@@ -54,19 +42,19 @@ As a beginner data analyst from the World Health Organization (WHO), you are tas
 
 Vaccination stat overview.
 
-![Stats on vaccination](assets/Stats on vaccination.png)
+![Stats on vaccination](assets/vaccination_stats.png)
 
 Vaccination stats map overview (little correlation between geographical location and vaccination rates).
 
-![Vaccination stats map](assets/Vaccination stats map.png)
+![Vaccination stats map](assets/vaccination_map.png)
 
 Correlation between GDP per capita and vaccination rates = 0.638 correlation coefficient (Strong correlation).
 
-![GDP vs Vaccination rates](assets/GDP vs Vaccination rates.png)
+![GDP vs Vaccination rates](assets/GDP.png)
 
 Vaccination stats by country.
 
-![Share of people vaccinated over pop](assets/share of people vaccinated over pop.png)
+![Share of people vaccinated over pop](assets/vaccination_pop.png)
 
 
 
