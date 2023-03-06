@@ -17,9 +17,8 @@ Badge [source](https://shields.io/)
   - [Business problem](#business-problem)
   - [Data source](#data-source)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Explore the visualizations](#explore-the-visualizations)
   - [Interactive dashboard](#interactive-dashboard)
-
+  - [Explore the visualizations](#explore-the-visualizations)
 
 
 ## Business problem
