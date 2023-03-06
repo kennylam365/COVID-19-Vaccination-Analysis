@@ -75,6 +75,8 @@ Vaccination stats by country.
 
 Using tableau, I created an interactive dashboard to track the vaccination rates based on the geographical location, country and date. You can try it out with the link below.
 
+![Covid-19 interactive dashboard](assets/dashboard.png)
+
 [Covid-19 vaccination stats interactive dashboard](https://public.tableau.com/views/Covid-19_16770391519370/GlobalVaccineTracker_1?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 
