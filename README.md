@@ -1,4 +1,4 @@
-![banner](assets/Covid-19 banner.png)
+![banner](assets/Covid-19_banner.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/kennylam365/COVID-19-Vaccination-Analysis)
 ![GitHub repo size](https://img.shields.io/github/repo-size/kennylam365/COVID-19-Vaccination-Analysis)
