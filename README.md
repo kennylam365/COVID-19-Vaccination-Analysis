@@ -82,7 +82,7 @@ Using tableau, I created an interactive dashboard to track the vaccination rates
 
 Please start from the COVID-19 Vaccination Data Analysis.pdf first, before trying out the interactive dashboard in tableau to have a better understanding of the data viz and dashboard.
 
-To explore the visualizations [here](https://github.com/kennylam365/COVID-19-Vaccination-Analysis/blob/main/Covid-19.twbx)
+To explore the visualizations in the tableau file [here](https://github.com/kennylam365/COVID-19-Vaccination-Analysis/blob/main/Covid-19.twbx)
 ## Repository structure
 
 The raw data used are downloaded from kaggle, and the final combined raw data can be found [here](https://github.com/kennylam365/COVID-19-Vaccination-Analysis/blob/main/country_vaccinations_final_raw.zip)
