@@ -34,7 +34,7 @@ As a beginner data analyst from the World Health Organization (WHO), you are tas
 
 ## Programs used
 
-- Tableau (Data Viz)
+- Tableau (Data Visualizations)
 
 
 ## Quick glance at the results
