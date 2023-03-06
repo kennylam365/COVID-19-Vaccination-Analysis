@@ -54,7 +54,7 @@ Correlation between GDP per capita and vaccination rates = 0.638 correlation coe
 
 Vaccination stats by country.
 
-![Share of people vaccinated over pop](assets/vaccination_pop.png)
+![Share of people vaccinated over pop](assets/vaccinated_pop.png)
 
 
 
