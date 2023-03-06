@@ -85,6 +85,6 @@ Please start from the COVID-19 Vaccination Data Analysis.pdf first, before tryin
 To explore the visualizations [here](https://github.com/kennylam365/COVID-19-Vaccination-Analysis/blob/main/Covid-19.twbx)
 ## Repository structure
 
-The raw data used are downloaded from kaggle, and the final combined raw data can be found [here](https://public.tableau.com/views/Covid-19_16770391519370/GlobalVaccineTracker_1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+The raw data used are downloaded from kaggle, and the final combined raw data can be found [here](https://github.com/kennylam365/COVID-19-Vaccination-Analysis/blob/main/country_vaccinations_final_raw.zip)
 
 Thank you for reading.
