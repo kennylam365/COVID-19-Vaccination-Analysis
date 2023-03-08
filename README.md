@@ -17,7 +17,7 @@ Badge [source](https://shields.io/)
   - [Business problem](#business-problem)
   - [Data source](#data-source)
   - [Quick glance at the results](#quick-glance-at-the-results)
-  - [Assumptions and findings](#Assumptions-&-findings)
+  - [Assumptions and findings](#Assumptions-and-findings)
   - [Interactive dashboard](#interactive-dashboard)
   - [Explore the visualizations](#explore-the-visualizations)
 
@@ -57,7 +57,7 @@ Vaccination stats by country.
 ![Share of people vaccinated over pop](assets/vaccinated_pop.png)
 
 
-## Assumptions & findings
+## Assumptions and findings
 
 - **Wealthier countries and ones that have sustained economic growth tend to have higher vaccination rates**
 - **Geographical location does not really affect vaccination rates. However, developing countries tend to have a lower vaccination rate**
